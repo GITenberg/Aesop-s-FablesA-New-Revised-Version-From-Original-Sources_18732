@@ -33,6 +33,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Aesop
 description: 'See also the early planned PG version #28, and comprehensive versions
   PG#21 tr. by George Fyler Townsend, and PG#11339 tr. by V. S. Vernon Jones.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18732#Aesop-s-FablesA-New-Revised-Version-From-Original-Sources
 gutenberg_issued: '2006-07-01'
 gutenberg_type: Text
 identifiers:
