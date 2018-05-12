@@ -1,0 +1,49 @@
+_repo: Aesop-s-FablesA-New-Revised-Version-From-Original-Sources_18732
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Griset, Ernest Henry
+    birthdate: 1844
+    deathdate: 1907
+    gutenberg_agent_id: '8211'
+    url: http://www.gutenberg.org/2009/agents/8211
+  - agent_name: Tenniel, John
+    alias: Tenniel, Sir John
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '74'
+    url: http://www.gutenberg.org/2009/agents/74
+    wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
+  - agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aesop
+    alias: Æsop
+    gutenberg_agent_id: '18'
+    url: http://www.gutenberg.org/2009/agents/18
+    wikipedia: http://en.wikipedia.org/wiki/Aesop
+description: 'See also the early planned PG version #28, and comprehensive versions
+  PG#21 tr. by George Fyler Townsend, and PG#11339 tr. by V. S. Vernon Jones.'
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18732'
+language: en
+publication_note: 'New York :  Frank F. Lovell & Company,  c1884'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Fables, Greek -- Translations into English'
+title: 'Aesop''s Fables: A New Revised Version From Original Sources'
+url: http://www.gutenberg.org/ebooks/18732
